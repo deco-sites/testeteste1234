@@ -13,6 +13,9 @@
     },
     {
       "__resolveType": "Footer"
+    },
+    {
+      "__resolveType": "Preview /sections/Links.tsx"
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
