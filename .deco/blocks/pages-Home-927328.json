@@ -9,9 +9,6 @@
       "__resolveType": "site/sections/Social.tsx"
     },
     {
-      "__resolveType": "site/sections/Links.tsx"
-    },
-    {
       "__resolveType": "site/sections/Image.tsx"
     },
     {
